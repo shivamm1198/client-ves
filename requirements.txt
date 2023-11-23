@@ -14,7 +14,7 @@ googleapis-common-protos==1.61.0
 gunicorn==21.2.0
 httplib2==0.22.0
 idna==3.4
-numpy==1.26.1
+numpy==1.21.6
 oauthlib==3.2.2
 opencv-python==4.8.1.78
 packaging==23.2
